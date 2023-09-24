@@ -1,0 +1,10 @@
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\SecurityFramework.dll
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\SecurityFramework.pdb
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\AWSSDK.Core.dll
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\AWSSDK.S3.dll
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\MySql.Data.dll
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\SecureLib.dll
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\SecureLib.pdb
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\obj\Debug\SecurityFramework.dll
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\obj\Debug\SecurityFramework.pdb
+F:\2020-2021\webservices\SecurityFramework\SecurityFramework\bin\Newtonsoft.Json.dll

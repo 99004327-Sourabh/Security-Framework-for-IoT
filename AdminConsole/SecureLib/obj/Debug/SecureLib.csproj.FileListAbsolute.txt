@@ -1,0 +1,32 @@
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\bin\Debug\SecureLib.dll
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\bin\Debug\SecureLib.pdb
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.dll
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.pdb
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\bin\Debug\SecureLib.dll
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\bin\Debug\SecureLib.pdb
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.csprojResolveAssemblyReference.cache
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.dll
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.pdb
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\bin\Debug\SecureLib.dll
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\bin\Debug\SecureLib.pdb
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.csprojResolveAssemblyReference.cache
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.dll
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\SecureLib\obj\Debug\SecureLib.pdb
+F:\2019-2020\bca auth\AdminConsole\SecureLib\bin\Debug\SecureLib.dll
+F:\2019-2020\bca auth\AdminConsole\SecureLib\bin\Debug\SecureLib.pdb
+F:\2019-2020\bca auth\AdminConsole\SecureLib\obj\Debug\SecureLib.csprojResolveAssemblyReference.cache
+F:\2019-2020\bca auth\AdminConsole\SecureLib\obj\Debug\SecureLib.dll
+F:\2019-2020\bca auth\AdminConsole\SecureLib\obj\Debug\SecureLib.pdb
+F:\2020-2021\manikanta\AdminConsole\SecureLib\bin\Debug\SecureLib.dll
+F:\2020-2021\manikanta\AdminConsole\SecureLib\bin\Debug\SecureLib.pdb
+F:\2020-2021\manikanta\AdminConsole\SecureLib\obj\Debug\SecureLib.dll
+F:\2020-2021\manikanta\AdminConsole\SecureLib\obj\Debug\SecureLib.pdb
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\SecureLib\bin\Debug\SecureLib.dll
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\SecureLib\bin\Debug\SecureLib.pdb
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\SecureLib\obj\Debug\SecureLib.dll
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\SecureLib\obj\Debug\SecureLib.pdb
+F:\2020-2021\webservices\AdminConsole\SecureLib\bin\Debug\SecureLib.dll
+F:\2020-2021\webservices\AdminConsole\SecureLib\bin\Debug\SecureLib.pdb
+F:\2020-2021\webservices\AdminConsole\SecureLib\obj\Debug\SecureLib.dll
+F:\2020-2021\webservices\AdminConsole\SecureLib\obj\Debug\SecureLib.pdb
+F:\2020-2021\webservices\AdminConsole\SecureLib\obj\Debug\SecureLib.csprojResolveAssemblyReference.cache

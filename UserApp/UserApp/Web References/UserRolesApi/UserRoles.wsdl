@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="AddRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="macid" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ipaddress" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="macname" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="date" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddRequestResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddRequestResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isApproved">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="user" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="macid" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="mac" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isApprovedResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="isApprovedResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Certificate">
+        <s:complexType />
+      </s:element>
+      <s:element name="CertificateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CertificateResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PrivateKey">
+        <s:complexType />
+      </s:element>
+      <s:element name="PrivateKeyResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PrivateKeyResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddControlRequest">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="user" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="macid" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ip" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="mac" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddControlRequestResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddControlRequestResult" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateToGetSessionKey">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="reqid" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sessionkey" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateToGetSessionKeyResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ValidateToGetSessionKeyResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="sessionkey" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IOTCommand">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="key" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="command" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IOTCommandResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="IOTCommandResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AddRequestSoapIn">
+    <wsdl:part name="parameters" element="tns:AddRequest" />
+  </wsdl:message>
+  <wsdl:message name="AddRequestSoapOut">
+    <wsdl:part name="parameters" element="tns:AddRequestResponse" />
+  </wsdl:message>
+  <wsdl:message name="isApprovedSoapIn">
+    <wsdl:part name="parameters" element="tns:isApproved" />
+  </wsdl:message>
+  <wsdl:message name="isApprovedSoapOut">
+    <wsdl:part name="parameters" element="tns:isApprovedResponse" />
+  </wsdl:message>
+  <wsdl:message name="CertificateSoapIn">
+    <wsdl:part name="parameters" element="tns:Certificate" />
+  </wsdl:message>
+  <wsdl:message name="CertificateSoapOut">
+    <wsdl:part name="parameters" element="tns:CertificateResponse" />
+  </wsdl:message>
+  <wsdl:message name="PrivateKeySoapIn">
+    <wsdl:part name="parameters" element="tns:PrivateKey" />
+  </wsdl:message>
+  <wsdl:message name="PrivateKeySoapOut">
+    <wsdl:part name="parameters" element="tns:PrivateKeyResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddControlRequestSoapIn">
+    <wsdl:part name="parameters" element="tns:AddControlRequest" />
+  </wsdl:message>
+  <wsdl:message name="AddControlRequestSoapOut">
+    <wsdl:part name="parameters" element="tns:AddControlRequestResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidateToGetSessionKeySoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateToGetSessionKey" />
+  </wsdl:message>
+  <wsdl:message name="ValidateToGetSessionKeySoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateToGetSessionKeyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IOTCommandSoapIn">
+    <wsdl:part name="parameters" element="tns:IOTCommand" />
+  </wsdl:message>
+  <wsdl:message name="IOTCommandSoapOut">
+    <wsdl:part name="parameters" element="tns:IOTCommandResponse" />
+  </wsdl:message>
+  <wsdl:portType name="UserRolesSoap">
+    <wsdl:operation name="AddRequest">
+      <wsdl:input message="tns:AddRequestSoapIn" />
+      <wsdl:output message="tns:AddRequestSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="isApproved">
+      <wsdl:input message="tns:isApprovedSoapIn" />
+      <wsdl:output message="tns:isApprovedSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Certificate">
+      <wsdl:input message="tns:CertificateSoapIn" />
+      <wsdl:output message="tns:CertificateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PrivateKey">
+      <wsdl:input message="tns:PrivateKeySoapIn" />
+      <wsdl:output message="tns:PrivateKeySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddControlRequest">
+      <wsdl:input message="tns:AddControlRequestSoapIn" />
+      <wsdl:output message="tns:AddControlRequestSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateToGetSessionKey">
+      <wsdl:input message="tns:ValidateToGetSessionKeySoapIn" />
+      <wsdl:output message="tns:ValidateToGetSessionKeySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IOTCommand">
+      <wsdl:input message="tns:IOTCommandSoapIn" />
+      <wsdl:output message="tns:IOTCommandSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="UserRolesSoap" type="tns:UserRolesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddRequest">
+      <soap:operation soapAction="http://tempuri.org/AddRequest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isApproved">
+      <soap:operation soapAction="http://tempuri.org/isApproved" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Certificate">
+      <soap:operation soapAction="http://tempuri.org/Certificate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PrivateKey">
+      <soap:operation soapAction="http://tempuri.org/PrivateKey" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddControlRequest">
+      <soap:operation soapAction="http://tempuri.org/AddControlRequest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateToGetSessionKey">
+      <soap:operation soapAction="http://tempuri.org/ValidateToGetSessionKey" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IOTCommand">
+      <soap:operation soapAction="http://tempuri.org/IOTCommand" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="UserRolesSoap12" type="tns:UserRolesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddRequest">
+      <soap12:operation soapAction="http://tempuri.org/AddRequest" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isApproved">
+      <soap12:operation soapAction="http://tempuri.org/isApproved" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Certificate">
+      <soap12:operation soapAction="http://tempuri.org/Certificate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PrivateKey">
+      <soap12:operation soapAction="http://tempuri.org/PrivateKey" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddControlRequest">
+      <soap12:operation soapAction="http://tempuri.org/AddControlRequest" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateToGetSessionKey">
+      <soap12:operation soapAction="http://tempuri.org/ValidateToGetSessionKey" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IOTCommand">
+      <soap12:operation soapAction="http://tempuri.org/IOTCommand" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UserRoles">
+    <wsdl:port name="UserRolesSoap" binding="tns:UserRolesSoap">
+      <soap:address location="http://svachallan.com/SecurityFramework/UserRoles.asmx" />
+    </wsdl:port>
+    <wsdl:port name="UserRolesSoap12" binding="tns:UserRolesSoap12">
+      <soap12:address location="http://svachallan.com/SecurityFramework/UserRoles.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

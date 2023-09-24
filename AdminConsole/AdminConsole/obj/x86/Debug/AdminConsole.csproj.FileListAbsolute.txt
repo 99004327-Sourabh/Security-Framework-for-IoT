@@ -1,0 +1,102 @@
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\AdminConsole.pdb
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Form1.resources
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Properties.Resources.resources
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csproj.GenerateResource.Cache
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.exe
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.pdb
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\MySql.Data.dll
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\SecureLib.dll
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\SecureLib.pdb
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.CertificateManager.resources
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csprojResolveAssemblyReference.cache
+G:\2017-2018\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.MainMenu.resources
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.exe
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.pdb
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\AdminConsole.pdb
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\MySql.Data.dll
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\SecureLib.dll
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\SecureLib.pdb
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csprojResolveAssemblyReference.cache
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.CertificateManager.resources
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Form1.resources
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.MainMenu.resources
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Properties.Resources.resources
+G:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csproj.GenerateResource.Cache
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.exe
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.pdb
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\AdminConsole.pdb
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\MySql.Data.dll
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\SecureLib.dll
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\bin\Debug\SecureLib.pdb
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csprojResolveAssemblyReference.cache
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.CertificateManager.resources
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Form1.resources
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.MainMenu.resources
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Properties.Resources.resources
+F:\1.2018-2019\SECURE PROTOCOL GSSS\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csproj.GenerateResource.Cache
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.exe
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.pdb
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\bin\Debug\AdminConsole.pdb
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\bin\Debug\MySql.Data.dll
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\bin\Debug\SecureLib.dll
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\bin\Debug\SecureLib.pdb
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csprojResolveAssemblyReference.cache
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.CertificateManager.resources
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Form1.resources
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.MainMenu.resources
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Properties.Resources.resources
+F:\2019-2020\bca auth\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csproj.GenerateResource.Cache
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.BlockLedger.resources
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.CertificateManager.resources
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Form1.resources
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.MainMenu.resources
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Properties.Resources.resources
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csproj.GenerateResource.Cache
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\AdminConsole.pdb
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\AWSSDK.Core.dll
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\AWSSDK.S3.dll
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\AWSSDK.SimpleDB.dll
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\MySql.Data.dll
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\SecureLib.dll
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\bin\Debug\SecureLib.pdb
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csprojResolveAssemblyReference.cache
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.exe
+F:\2020-2021\manikanta\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.pdb
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.exe
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.pdb
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\bin\Debug\AdminConsole.pdb
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\bin\Debug\MySql.Data.dll
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\bin\Debug\SecureLib.dll
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\bin\Debug\SecureLib.pdb
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csprojResolveAssemblyReference.cache
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.BlockLedger.resources
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.CertificateManager.resources
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Form1.resources
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.MainMenu.resources
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Properties.Resources.resources
+F:\2020-2021\manikanta\Final with block chain\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csproj.GenerateResource.Cache
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.exe
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.pdb
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe.config
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\AdminConsole.exe
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\AdminConsole.pdb
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\AWSSDK.Core.dll
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\AWSSDK.S3.dll
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\AWSSDK.SimpleDB.dll
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\MySql.Data.dll
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\SecureLib.dll
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\SecureLib.pdb
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.BlockLedger.resources
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.CertificateManager.resources
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Form1.resources
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.MainMenu.resources
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.Properties.Resources.resources
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csproj.GenerateResource.Cache
+F:\2020-2021\webservices\AdminConsole\AdminConsole\bin\Debug\Newtonsoft.Json.dll
+F:\2020-2021\webservices\AdminConsole\AdminConsole\obj\x86\Debug\AdminConsole.csprojResolveAssemblyReference.cache
