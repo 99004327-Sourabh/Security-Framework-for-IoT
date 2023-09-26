@@ -25,3 +25,15 @@ This repository contains a project that focuses on delivering a comprehensive se
    ```sh
    git clone https://github.com/99004327-Sourabh/Security-Framework-for-IoT.git
 
+
+
+## 📘 Usage
+Once the prerequisites are installed, integrate this security framework within your IoT project. Refer to the official documentation and example configurations within the project repository for effective integration and configuration according to your specific environmental needs.
+
+## 🤝 Contribution
+Contributions are most welcome! Here’s how you can contribute:
+
+1. **Fork the Project**
+2. **Create your Feature Branch**
+   ```sh
+   git checkout -b feature/YourFeature
