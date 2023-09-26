@@ -1,11 +1,11 @@
-**Security Framework for IoT**
+#**Security Framework for IoT**
 
-**Overview**
+##**Overview**
 
 
 This project, hosted on [GitHub](https://github.com/99004327-Sourabh/Security-Framework-for-IoT), is dedicated to developing a robust security framework specifically tailored for Internet of Things (IoT) environments. The objective is to ensure the secure interaction of devices, protect data privacy, and maintain the integrity of information within IoT systems.
 
-Features
+##**Features**
 Robust Authentication Mechanisms
 Data Encryption and Decryption
 Secure Communication Protocols
@@ -15,7 +15,7 @@ Configurable Security Policies
 Getting Started
 To utilize this security framework, follow the instructions below to clone the project and install the necessary dependencies.
 
-Prerequisites
+##**Prerequisites**
 Python (3.x recommended)
 Any relevant IoT Platforms or Devices
 Necessary libraries and packages (mentioned in requirements.txt)
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Usage
 Once the installation is complete, you can integrate the security framework within your IoT project, configuring it according to the specific needs and requirements of your environment. Ensure to refer to the available documentation and example configurations within the project to understand the framework's capabilities and to configure it effectively.
 
-Contribution
+##**Contribution**
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
